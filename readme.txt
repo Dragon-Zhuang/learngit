@@ -6,4 +6,6 @@ Time flies!
 Abstract deadline 8 weeks 2 days.
 Git manages modification not files.
 Today is 3.22.
-
+NIPS is the thing that I'll try my best!
+Do some experiments about the modular multitask.
+Today is 3.23.
